@@ -4,7 +4,7 @@
 
 ## 什么是springboot框架
 
-* springboot框架是一款可以很方便的搭建web项目的框架，他通过使用springfarmework框架为基石，通过springfarmework框架发布的自动组装的新特性，来实现springboot的自动装配来提高项目的开发效率。并将很多配置以约定的方式进行装配，并同时对外提供修改的方法来保证框架的灵活性。总的来说springboot就是一款基于springfarmework整合了web层，service层，以及dao层的项目开发框架。
+* springboot框架是一款可以很方便的搭建web项目的框架，他通过使用springframework框架为基石，通过springframework框架发布的自动组装的新特性，来实现springboot的自动装配来提高项目的开发效率。并将很多配置以约定的方式进行装配，并同时对外提供修改的方法来保证框架的灵活性。总的来说springboot就是一款基于springframework整合了web层，service层，以及dao层的项目开发框架。
 
 ## 为什么要使用springboot框架
 
